@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         nmac.to Anti-Adblocker
 // @namespace    http://netramz.com/
-// @version      0.1
+// @version      0.2
 // @description  Get rid of Anti-Adblocker on nmac.to website
 // @author       AMIN_RPG
 // @match        http://nmac.to/*
